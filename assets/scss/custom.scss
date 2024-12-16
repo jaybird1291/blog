@@ -15,3 +15,20 @@
     align-items: center; 
 }
 
+
+body, .sidebar {
+    background-color: #313131;
+}
+
+strong, b {
+    color: #f37471; 
+    font-weight: 600; // Utilisez un poids légèrement plus élevé pour plus de visibilité sans exagérer
+}
+
+body {
+    background-color: #313131;
+}
+
+:root[data-scheme=dark] {
+    --card-background: #3f3f3f; 
+}

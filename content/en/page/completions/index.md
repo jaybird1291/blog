@@ -93,20 +93,7 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
 <br>
 
 ## RootMe
-2045 points (105 challenges)
-
-![](rootme-validations.png)
-<br>
-
-### Networks (100% as of 10/05/2024)
-![](rootme-reseau.png)
-<br>
-
-
-### Forensics (62% as of 23/07/2024)
-![](rootme-forensic.png)
-<br>
-
+<img src= "https://root-me-diff.vercel.app/rm-gh?nickname=jaybird1291&style=dark&gstats=show"/>
 
 ## Cyberdefenders
 ### Network Forensics 

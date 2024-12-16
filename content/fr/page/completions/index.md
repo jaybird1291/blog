@@ -93,19 +93,7 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 <br>
 
 ## RootMe
-2045 points (105 challenges)
-
-![](rootme-validations.png)
-<br>
-
-### Réseaux (100% à la date du 10/05/2024)
-![](rootme-reseau.png)
-<br>
-
-
-### Forensic (62% à la date du 23/07/2024)
-![](rootme-forensic.png)
-<br>
+<img src= "https://root-me-diff.vercel.app/rm-gh?nickname=jaybird1291&style=dark&gstats=show"/>
 
 
 ## Cyberdefenders

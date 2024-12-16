@@ -93,18 +93,7 @@ menu:
 <br>
 
 ## RootMe
-2045ポイント（105チャレンジ）
-
-![](rootme-validations.png)
-<br>
-
-### ネットワーク (2024年5月10日時点で100%)
-![](rootme-reseau.png)
-<br>
-
-### フォレンジック (2024年7月23日時点で62%)
-![](rootme-forensic.png)
-<br>
+<img src= "https://root-me-diff.vercel.app/rm-gh?nickname=jaybird1291&style=dark&gstats=show"/>
 
 ## サイバーディフェンダーズ
 ### ネットワークフォレンジック

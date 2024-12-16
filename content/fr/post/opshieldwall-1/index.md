@@ -48,7 +48,7 @@ Il y a beaucoup de valeurs possible (`tshark -z help` pour les afficher) mais ic
 - les IPv4 endpoints échangeant ensemble le plus
 - les protocoles les plus utilisés 
 
-**Nombre de paquet et durée :** 106 ; 31.6 sec
+**Nombre de paquet et durée** : 106 ; 31.6 sec
 ```shell
 $ tshark -r VELORIA-NETWORK.pcap -qz io,stat,0
 
