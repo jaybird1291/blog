@@ -1,6 +1,6 @@
 ---
-title: "完了リスト"
-slug: "completions"
+title: "CTFとその他のポートフォリオ"
+slug: "portfolio"
 menu:
     main:
         weight: 2
@@ -8,9 +8,33 @@ menu:
             icon: checkbox
 ---
 
-これまでに完了したすべてのチャレンジ、ラボ、ボックスなど、および参加した会議やトレーニングのリストです。
+画像はクリック可能なリンクです。
 
-## HackTheBox
+<div class="image-container">
+    <div class="image-item">{{< figure src="ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div><br>
+    進行中 <br>
+    修士課程 (BAC+5) - データ、ネットワーク、システムセキュリティの専門家<br>
+    職業訓練（ワークスタディプログラム）のみ対応<br>
+    https://www.francecompetences.fr/recherche/rncp/38951/
+</div>
+
+<div class="image-container">
+    <div class="image-item">{{< figure src="efrei_logo.jpg" link="https://eng.efrei.fr/" width=120 >}}</div><br>
+    学士課程 (BAC+3) - サイバーセキュリティ & 倫理的ハッキング<br>
+    3年目は職業訓練プログラム<br>
+成績優秀賞（フランスの「Très Bien」に相当する評価）
+</div>
+
+<div class="image-container">
+    <div class="image-item">{{< figure src="3IL-logo.jpg" link="https://www.3il-ingenieurs.fr/en/" width=120 >}}</div><br>
+    学士課程 (BAC+3) - 情報システム設計者<br>
+成績優秀賞（フランスの「Très Bien」に相当する評価）
+</div>
+
+
+これまでに完了したすべてのチャレンジ、ラボ、ボックスなど、および参加した会議やトレーニングのリストです:
+
+## **HackTheBox**
 
 - Iron = Insane
 - Red = Hard
@@ -86,16 +110,15 @@ menu:
     <div class="image">{{< figure src="blue.webp" title="Blue" link="https://www.hackthebox.com/achievement/machine/1271052/51" width=120 >}}</div>
 </div>
 
-## HackTheBoxアカデミー
-### モジュール
+## **HackTheBoxアカデミー**
 [Transcript.pdf](htb-academy-transcript.pdf)
 
 <br>
 
-## RootMe
+## **RootMe**
 <img src= "https://root-me-diff.vercel.app/rm-gh?nickname=jaybird1291&style=dark&gstats=show"/>
 
-## サイバーディフェンダーズ
+## **CyberDefenders**
 ### ネットワークフォレンジック
 <div class="image-container">
     <div class="image">{{< figure src="Acoustic.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/46/" width=150 >}}</div>
@@ -112,27 +135,44 @@ menu:
     <div class="image">{{< figure src="Tomcat_Takeover.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/" width=150 >}}</div>
 </div>
 
-## TryHackMe
-92部屋を完了
-
-### パス
+## **LetsDefend**
+### Path
+#### 進行中 
 <div class="image-container">
-    <div class="image">{{< figure src="thm-ps.png" width=250 >}}</div>
-    <div class="image">{{< figure src="thm-itcs.png" width=250 >}}</div>
-    <div class="image">{{< figure src="thm-cb.png" width=250 >}}</div>
+    <div class="image">{{< figure src="malware-analysis-skill-path.webp" title="Malware Analysis" width=110 >}}</div>
 </div>
 
-## コース 
-- **Kaspersky**: Advanced Malware Analysis Techniques （高度なマルウェア分析技術）
-- **Kaspersky**: Hunting APTs like a Ninja with YARA （YARAを使った忍者のようなAPT追跡）
-- **OALABS**: Reverse Engineering 101 (RE101) （リバースエンジニアリング101）
-- **Roman Stuehler**: Android App Hacking - Black Belt Edition （Androidアプリハッキング - ブラックベルト版）
-- **Pentherz**: Intro to SDR Hacking （SDRハッキング入門）
-- **Christopher Negus**: Linux Bible （リナックスバイブル）
-- **OSINT**: (Open Source Intelligence Techniques) : IntelTechniques （オープンソースインテリジェンステクニック）
-- **Opdisk**: The Cyber Plumber's Handbook （サイバープランバーのハンドブック）
+### Course
+#### 進行中
+<div class="image-container">
+    <div class="image">{{< figure src="ios-for-badge.png" title="iOS Forensics" width=110 >}}</div>
+    <div class="image">{{< figure src="android-for-course-badge.png" title="Android Forensics" width=110 >}}</div>
+</div>
 
-## 会議とミートアップ
+## **TryHackMe**
+92部屋を完了
+
+
+## **コース** 
+- <strong class="alternate">OALABS</strong> : Reverse Engineering 101 (RE101) （リバースエンジニアリング101）
+- <strong class="alternate">Evasive Malware</strong> : A Field Guide to Detecting, Analyzing, and Defeating Advanced Threats (Kyle Cucci - no starch press)
+- <strong class="alternate">Kaspersky</strong> : Advanced Malware Analysis Techniques （高度なマルウェア分析技術）
+- <strong class="alternate">Kaspersky</strong> : Hunting APTs like a Ninja with YARA （YARAを使った忍者のようなAPT追跡）
+- <strong class="alternate">13Cubed</strong> : Investigating Windows Endpoint
+- <strong class="alternate">13Cubed</strong> : Investigating Windows Memory
+- <strong class="alternate">Roman Stuehler</strong> : Android App Hacking - Black Belt Edition （Androidアプリハッキング - ブラックベルト版）
+- <strong class="alternate">Pentherz</strong> : Intro to SDR Hacking （SDRハッキング入門）
+- <strong class="alternate">Christopher Negus</strong> : Linux Bible （リナックスバイブル）
+- <strong class="alternate">OSINT (Open Source Intelligence Techniques)</strong> : IntelTechniques （オープンソースインテリジェンステクニック）
+- <strong class="alternate">Opdisk</strong> : The Cyber Plumber's Handbook （サイバープランバーのハンドブック）
+
+## **会議とミートアップ**
+### 2024
+<div class="image-container">
+    <div class="image">{{< figure src="defconparis.png" title="DEFCON Paris" width=165 >}}</div>
+    <div class="image">{{< figure src="meetuphtb.jpg" title="Meetups HTB France" width=320 >}}</div>
+</div>
+
 ### 2023年
 <div class="image-container">
     <div class="image">{{< figure src="hexacon.png" title="Hexacon" width=300 >}}</div>

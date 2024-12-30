@@ -1,6 +1,6 @@
 ---
-title: "Completions"
-slug: "completions"
+title: "Portfolio CTF & Others"
+slug: "portfolio "
 menu:
     main:
         weight: 2
@@ -8,9 +8,33 @@ menu:
             icon: checkbox
 ---
 
-List of all the challenges, labs, boxes, etc., that I have completed, as well as conferences and trainings I have attended.
+## **Diplômes** 
+The images are clickable links.
 
-## HackTheBox 
+<div class="image-container">
+    <div class="image-item">{{< figure src="ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div><br>
+    In progress <br>
+    Master’s Degree (BAC+5) - Expert in Data, Network, and System Security<br>
+    Only available through work-study programs<br>
+    https://www.francecompetences.fr/recherche/rncp/38951/
+</div>
+
+<div class="image-container">
+    <div class="image-item">{{< figure src="efrei_logo.jpg" link="https://eng.efrei.fr/" width=120 >}}</div><br>
+    Bachelor’s Degree (BAC+3) - Cybersecurity & Ethical Hacking<br>
+    3rd year in work-study program<br>
+    With Highest Honour
+</div>
+
+<div class="image-container">
+    <div class="image-item">{{< figure src="3IL-logo.jpg" link="https://www.3il-ingenieurs.fr/en/" width=120 >}}</div><br>
+    Bachelor’s Degree (BAC+3) - Network and Systems Architect<br>
+    With Highest Honour
+</div>
+
+List of all the challenges, labs, boxes, etc., that I have completed, as well as conferences and trainings I have attended:
+
+## **HackTheBox** 
 
 - Iron = Insane
 - Red = Hard
@@ -86,16 +110,15 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
     <div class="image">{{< figure src="blue.webp" title="Blue" link="https://www.hackthebox.com/achievement/machine/1271052/51" width=120 >}}</div>
 </div>
 
-## HackTheBox Academy
-### Modules
+## **HackTheBox Academy**
 [Transcript.pdf](htb-academy-transcript.pdf)
 
 <br>
 
-## RootMe
+## **RootMe**
 <img src= "https://root-me-diff.vercel.app/rm-gh?nickname=jaybird1291&style=dark&gstats=show"/>
 
-## Cyberdefenders
+## **Cyberdefenders**
 ### Network Forensics 
 <div class="image-container">
     <div class="image">{{< figure src="Acoustic.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/46/" width=150 >}}</div>
@@ -112,27 +135,44 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
     <div class="image">{{< figure src="Tomcat_Takeover.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/" width=150 >}}</div>
 </div>
 
-## TryHackMe
-92 rooms completed
-
+## **LetsDefend**
 ### Path
+#### In progress 
 <div class="image-container">
-    <div class="image">{{< figure src="thm-ps.png" width=250 >}}</div>
-    <div class="image">{{< figure src="thm-itcs.png" width=250 >}}</div>
-    <div class="image">{{< figure src="thm-cb.png" width=250 >}}</div>
+    <div class="image">{{< figure src="malware-analysis-skill-path.webp" title="Malware Analysis" width=110 >}}</div>
 </div>
 
-## Cours
-- **Kaspersky**: Advanced Malware Analysis Techniques 
-- **Kaspersky**: Hunting APTs like a Ninja with YARA
-- **OALABS**: Reverse Engineering 101 (RE101)
-- **Roman Stuehler**: Android App Hacking - Black Belt Edition
-- **Pentherz**: Intro to SDR Hacking 
-- **Christopher Negus**: Linux Bible
-- **OSINT (Open Source Intelligence Techniques)**: IntelTechniques
-- **Opdisk**: The Cyber Plumber's Handbook
+### Course
+#### In progress
+<div class="image-container">
+    <div class="image">{{< figure src="ios-for-badge.png" title="iOS Forensics" width=110 >}}</div>
+    <div class="image">{{< figure src="android-for-course-badge.png" title="Android Forensics" width=110 >}}</div>
+</div>
 
-## Conf & meetups
+## **TryHackMe**
+92 rooms completed
+
+
+## **Cours**
+- <strong class="alternate">OALABS</strong> : Reverse Engineering 101 (RE101)
+- <strong class="alternate">Evasive Malware</strong> : A Field Guide to Detecting, Analyzing, and Defeating Advanced Threats (Kyle Cucci - no starch press)
+- <strong class="alternate">Kaspersky</strong> : Advanced Malware Analysis Techniques 
+- <strong class="alternate">Kaspersky</strong> : Hunting APTs like a Ninja with YARA
+- <strong class="alternate">13Cubed</strong> : Investigating Windows Endpoint
+- <strong class="alternate">13Cubed</strong> : Investigating Windows Memory
+- <strong class="alternate">Roman Stuehler</strong> : Android App Hacking - Black Belt Edition
+- <strong class="alternate">Pentherz</strong> : Intro to SDR Hacking 
+- <strong class="alternate">Christopher Negus</strong> : Linux Bible
+- <strong class="alternate">OSINT (Open Source Intelligence Techniques)</strong> : IntelTechniques
+- <strong class="alternate">Opdisk</strong> : The Cyber Plumber's Handbook
+
+## **Conf & meetups**
+### 2024
+<div class="image-container">
+    <div class="image">{{< figure src="defconparis.png" title="DEFCON Paris" width=165 >}}</div>
+    <div class="image">{{< figure src="meetuphtb.jpg" title="Meetups HTB France" width=320 >}}</div>
+</div>
+
 ### 2023
 <div class="image-container">
     <div class="image">{{< figure src="hexacon.png" title="Hexacon" width=300 >}}</div>
