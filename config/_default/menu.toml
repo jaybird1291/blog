@@ -46,3 +46,13 @@ newtab = true
 
 [social.params]
 icon = "cyberdefenders"
+
+[[social]]
+identifier = "Blog Japonais"
+name = "Blog Japonais"
+url = "https://jaybird1291.github.io/japanese/"
+weight = 5
+newtab = true
+
+[social.params]
+icon = "cherry-blossom"
