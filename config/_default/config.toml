@@ -45,3 +45,5 @@ hasCJKLanguage = false
     emoji = "❤️"
     subtitle = "École2600の学生 - フォレンジック、インシデント対応、ネットワーク＆ラジオチャレンジに集中しています。"
 
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":git"]
