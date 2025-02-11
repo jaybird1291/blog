@@ -121,6 +121,9 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 
 
 ## **Cyberdefenders**
+
+<script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
+
 ### Network Forensics 
 <div class="image-container">
     <div class="image">{{< figure src="Acoustic.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/46/" width=150 >}}</div>
@@ -140,23 +143,6 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 ### Endpoint Forensics
 <div class="image-container">
     <div class="image">{{< figure src="The_Crime.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/138/" width=150 >}}</div>
-</div>
-
-## **LetsDefend**
-
-<script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
-
-### Path
-#### En cours
-<div class="image-container">
-    <div class="image">{{< figure src="malware-analysis-skill-path.webp" title="Malware Analysis" width=110 >}}</div>
-</div>
-
-### Course
-#### En cours
-<div class="image-container">
-    <div class="image">{{< figure src="ios-for-badge.png" title="iOS Forensics" width=110 >}}</div>
-    <div class="image">{{< figure src="android-for-course-badge.png" title="Android Forensics" width=110 >}}</div>
 </div>
 
 

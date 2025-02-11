@@ -119,6 +119,9 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
 <img src= "https://root-me-diff.vercel.app/rm-gh?nickname=jaybird1291&style=dark&gstats=show"/>
 
 ## **Cyberdefenders**
+
+<script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
+
 ### Network Forensics 
 <div class="image-container">
     <div class="image">{{< figure src="Acoustic.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/46/" width=150 >}}</div>
@@ -140,22 +143,6 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
     <div class="image">{{< figure src="The_Crime.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/138/" width=150 >}}</div>
 </div>
 
-## **LetsDefend**
-
-<script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
-
-### Path
-#### In progress 
-<div class="image-container">
-    <div class="image">{{< figure src="malware-analysis-skill-path.webp" title="Malware Analysis" width=110 >}}</div>
-</div>
-
-### Course
-#### In progress
-<div class="image-container">
-    <div class="image">{{< figure src="ios-for-badge.png" title="iOS Forensics" width=110 >}}</div>
-    <div class="image">{{< figure src="android-for-course-badge.png" title="Android Forensics" width=110 >}}</div>
-</div>
 
 ## **TryHackMe**
 92 rooms completed
