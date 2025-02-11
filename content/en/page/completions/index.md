@@ -8,7 +8,7 @@ menu:
             icon: checkbox
 ---
 
-## **Diplômes** 
+## **Diplomas** 
 The images are clickable links.
 
 <div class="image-container">
@@ -133,6 +133,11 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
     <div class="image">{{< figure src="PoisonedCredentials.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/146/" width=150 >}}</div>
     <div class="image">{{< figure src="WebStrike.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/149/" width=150 >}}</div>
     <div class="image">{{< figure src="Tomcat_Takeover.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/" width=150 >}}</div>
+</div>
+
+### Endpoint Forensics
+<div class="image-container">
+    <div class="image">{{< figure src="The_Crime.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/138/" width=150 >}}</div>
 </div>
 
 ## **LetsDefend**

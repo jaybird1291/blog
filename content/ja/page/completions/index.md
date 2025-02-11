@@ -135,6 +135,11 @@ menu:
     <div class="image">{{< figure src="Tomcat_Takeover.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/" width=150 >}}</div>
 </div>
 
+### エンドポイント・フォレンジックス
+<div class="image-container">
+    <div class="image">{{< figure src="The_Crime.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/138/" width=150 >}}</div>
+</div>
+
 ## **LetsDefend**
 ### Path
 #### 進行中 
@@ -173,12 +178,12 @@ menu:
     <div class="image">{{< figure src="meetuphtb.jpg" title="Meetups HTB France" width=320 >}}</div>
 </div>
 
-### 2023年
+### 2023
 <div class="image-container">
     <div class="image">{{< figure src="hexacon.png" title="Hexacon" width=300 >}}</div>
     <div class="image">{{< figure src="defconparis.png" title="DEFCON Paris" width=165 >}}</div>
     <div class="image">{{< figure src="lehack.png" title="LeHack" width=320 >}}</div>
 </div>
 <div class="image-container">
-    <div class="image">{{< figure src="meetuphtb.jpg" title="HTBミートアップ フランス" width=320 >}}</div>
+    <div class="image">{{< figure src="meetuphtb.jpg" title="Meetups HTB France" width=320 >}}</div>
 </div>
