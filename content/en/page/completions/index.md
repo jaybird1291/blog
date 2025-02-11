@@ -132,6 +132,7 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
 </div>
 
 <div class="image-container">
+    <div class="image">{{< figure src="DanaBot.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/205/" width=150 >}}</div>
     <div class="image">{{< figure src="PsExec_Hunt.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/143/" width=150 >}}</div>
     <div class="image">{{< figure src="PoisonedCredentials.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/146/" width=150 >}}</div>
     <div class="image">{{< figure src="WebStrike.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/149/" width=150 >}}</div>
