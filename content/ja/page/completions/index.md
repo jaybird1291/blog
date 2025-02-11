@@ -141,6 +141,9 @@ menu:
 </div>
 
 ## **LetsDefend**
+
+<script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
+
 ### Path
 #### 進行中 
 <div class="image-container">

@@ -141,6 +141,9 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
 </div>
 
 ## **LetsDefend**
+
+<script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
+
 ### Path
 #### In progress 
 <div class="image-container">

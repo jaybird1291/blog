@@ -143,6 +143,9 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 </div>
 
 ## **LetsDefend**
+
+<script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
+
 ### Path
 #### En cours
 <div class="image-container">
