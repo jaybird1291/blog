@@ -125,19 +125,23 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 <script src="https://cyberdefenders.org/p/Jaybird1291/badge"></script>
 
 ### Network Forensics 
-<div class="image-container">
+<div class="image-container"> 
+    <div class="image">{{< figure src="SolarDisruption_NG3AiEm.webp" title="Hard" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/202/" width=150 >}}</div>
     <div class="image">{{< figure src="Acoustic.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/46/" width=150 >}}</div>
     <div class="image">{{< figure src="PacketMaze.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/68/" width=150 >}}</div>
     <div class="image">{{< figure src="HawkEye.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/91/" width=150 >}}</div>
     <div class="image">{{< figure src="OpenWire.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/153/" width=150 >}}</div>
-    <div class="image">{{< figure src="webinvestigation.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/170/" width=150 >}}</div>
 </div>
 
 <div class="image-container">
+    <div class="image">{{< figure src="webinvestigation.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/170/" width=150 >}}</div>
     <div class="image">{{< figure src="DanaBot.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/205/" width=150 >}}</div>
     <div class="image">{{< figure src="PsExec_Hunt.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/143/" width=150 >}}</div>
     <div class="image">{{< figure src="PoisonedCredentials.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/146/" width=150 >}}</div>
     <div class="image">{{< figure src="WebStrike.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/149/" width=150 >}}</div>
+</div>
+
+<div class="image-container">
     <div class="image">{{< figure src="Tomcat_Takeover.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/" width=150 >}}</div>
 </div>
 
