@@ -55,3 +55,16 @@ body {
 .article-content table {
     font-size: 1em;
 }
+
+figure.hard figcaption {
+    color: rgb(255, 63, 25);
+  }
+  
+  figure.medium figcaption {
+    color: orange;
+  }
+  
+  figure.easy figcaption {
+    color: #70ce3a;
+  }
+  
