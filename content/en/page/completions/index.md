@@ -32,6 +32,8 @@ The images are clickable links.
     With Highest Honour
 </div>
 
+---
+
 List of all the challenges, labs, boxes, etc., that I have completed, as well as conferences and trainings I have attended:
 
 ## **HackTheBox** 

@@ -32,6 +32,7 @@ Les images sont des liens cliquables.
     Mention - Très bien
 </div>
 
+---
 
 Liste de tous les challenges, labs, box etc. que j'ai effectué mais aussi des cours, conférences et trainings auquels j'ai assisté :
 
