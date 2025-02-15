@@ -12,7 +12,7 @@ menu:
 The images are clickable links.
 
 <div class="image-container">
-    <div class="image-item">{{< figure src="ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div><br>
+    <div class="image-item">{{< figure src="ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div>
     In progress <br>
     Master’s Degree (BAC+5) - Expert in Data, Network, and System Security<br>
     Only available through work-study programs<br>
