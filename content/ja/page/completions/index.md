@@ -49,14 +49,12 @@ menu:
 
 <div class="image-container">
     <div class="image-item">{{< figure src="htb-opshieldwall7.webp" title="OpShieldWall-7" width=120 >}}</div>
+    <div class="image-item">{{< figure src="trent.webp" title="Trent" link="https://labs.hackthebox.com/achievement/sherlock/1271052/841" width=120 >}}</div>
     <div class="image-item">{{< figure src="htb-aptnightmare.webp" title="APTNightmare" link="https://labs.hackthebox.com/achievement/sherlock/1271052/612" width=120 >}}</div>
     <div class="image-item">{{< figure src="OpShieldWall4.png" title="OpShieldWall-4" width=120 >}}</div>
     <div class="image-item">{{< figure src="htb-opshieldwall2.webp" title="OpShieldWall-2" width=120 >}}</div>
     <div class="image-item">{{< figure src="opshieldwall1.webp" title="OpShieldWall-1" width=120 >}}</div>
     <div class="image-item">{{< figure src="htb-JingleBell.webp" title="Jingle Bell" link="https://labs.hackthebox.com/achievement/sherlock/1271052/613" width=120 >}}</div>
-</div>
-
-<div class="image-container">
     <div class="image-item">{{< figure src="recollection.webp" title="Recollection" link="https://labs.hackthebox.com/achievement/sherlock/1271052/586" width=120 >}}</div>
     <div class="image-item">{{< figure src="noted.webp" title="Noted" link="https://labs.hackthebox.com/achievement/sherlock/1271052/585" width=120 >}}</div>
     <div class="image-item">{{< figure src="tracer.webp" title="Tracer" link="https://labs.hackthebox.com/achievement/sherlock/1271052/558" width=120 >}}</div>
@@ -87,18 +85,12 @@ menu:
     <div class="image-item">{{< figure src="Runner.webp" title="Runner" link="https://www.hackthebox.com/achievement/machine/1271052/598" width=120 >}}</div>
     <div class="image-item">{{< figure src="iclean.png" title="IClean" link="https://www.hackthebox.com/achievement/machine/1271052/596" width=120 >}}</div>
     <div class="image-item">{{< figure src="Perfection.png" title="Perfection" link="https://www.hackthebox.com/achievement/machine/1271052/590" width=120 >}}</div>
-</div>
-
-<div class="image-container">
     <div class="image-item">{{< figure src="BoardLight.png" title="BoardLight" link="https://www.hackthebox.com/achievement/machine/1271052/603" width=120 >}}</div>
     <div class="image-item">{{< figure src="Headless.png" title="Headless" link="https://www.hackthebox.com/achievement/machine/1271052/594" width=120 >}}</div>
     <div class="image">{{< figure src="wifinetic.webp" title="Wifinetic" link="https://www.hackthebox.com/achievement/machine/1271052/563" width=120 >}}</div>
     <div class="image">{{< figure src="metatwo.webp" title="MetaTwo" link="https://www.hackthebox.com/achievement/machine/1271052/504" width=120 >}}</div>
     <div class="image">{{< figure src="lame.webp" title="Lame" link="https://www.hackthebox.com/achievement/machine/1271052/1" width=120 >}}</div>
     <div class="image">{{< figure src="nibbles.webp" title="Nibbles" link="https://www.hackthebox.com/achievement/machine/1271052/121" width=120 >}}</div>
-</div>
-
-<div class="image-container">
     <div class="image">{{< figure src="precious.webp" title="Precious" link="https://www.hackthebox.com/achievement/machine/1271052/513" width=120 >}}</div>
 </div>
 
@@ -129,17 +121,11 @@ menu:
     <div class="image">{{< figure src="PacketMaze.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/68/" width=150 >}}</div>
     <div class="image">{{< figure src="HawkEye.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/91/" width=150 >}}</div>
     <div class="image">{{< figure src="OpenWire.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/153/" width=150 >}}</div>
-</div>
-
-<div class="image-container">
     <div class="image">{{< figure src="webinvestigation.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/170/" width=150 >}}</div>
     <div class="image">{{< figure src="DanaBot.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/205/" width=150 >}}</div>
     <div class="image">{{< figure src="PsExec_Hunt.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/143/" width=150 >}}</div>
     <div class="image">{{< figure src="PoisonedCredentials.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/146/" width=150 >}}</div>
     <div class="image">{{< figure src="WebStrike.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/149/" width=150 >}}</div>
-</div>
-
-<div class="image-container">
     <div class="image">{{< figure src="Tomcat_Takeover.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/" width=150 >}}</div>
 </div>
 
@@ -188,7 +174,5 @@ menu:
     <div class="image">{{< figure src="hexacon.png" title="Hexacon" width=300 >}}</div>
     <div class="image">{{< figure src="defconparis.png" title="DEFCON Paris" width=165 >}}</div>
     <div class="image">{{< figure src="lehack.png" title="LeHack" width=320 >}}</div>
-</div>
-<div class="image-container">
     <div class="image">{{< figure src="meetuphtb.jpg" title="Meetups HTB France" width=320 >}}</div>
 </div>
