@@ -51,6 +51,7 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
 
 <div class="image-container">
     <div class="image-item">{{< figure src="pictures/htb-opshieldwall7.webp" title="OpShieldWall-7" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/heartbreaker.webp" title="Heartbreaker" link="https://labs.hackthebox.com/achievement/sherlock/1271052/698" width=120 >}}</div>
     <div class="image-item">{{< figure src="pictures/trent.webp" title="Trent" link="https://labs.hackthebox.com/achievement/sherlock/1271052/841" width=120 >}}</div>
     <div class="image-item">{{< figure src="pictures/htb-aptnightmare.webp" title="APTNightmare" link="https://labs.hackthebox.com/achievement/sherlock/1271052/612" width=120 >}}</div>
     <div class="image-item">{{< figure src="pictures/OpShieldWall4.png" title="OpShieldWall-4" width=120 >}}</div>
