@@ -41,6 +41,7 @@ menu:
 - Red = Hard
 - Orange = Medium
 - Green = Easy
+- Purple = Very Easy
 
 一部の画像は、HTBの結果ページにリンクしていません。これらはHackTheBox Enterpriseプラットフォームでのみ利用可能なボックスやシャーロックであり、共有リンクが許可されていません。
 
@@ -62,6 +63,9 @@ menu:
     <div class="image-item">{{< figure src="pictures/htb-tracer.webp" title="Tracer" link="https://labs.hackthebox.com/achievement/sherlock/1271052/558" width=120 >}}</div>
     <div class="image-item">{{< figure src="pictures/htb-logjammer.webp" title="Log Jammer" link="https://labs.hackthebox.com/achievement/sherlock/1271052/557" width=120 >}}</div>
     <div class="image-item">{{< figure src="pictures/htb-rogueone.webp" title="Rogue One" link="https://labs.hackthebox.com/achievement/sherlock/1271052/569" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/crownjewel2.webp" title="CrownJewel-2" link="https://labs.hackthebox.com/achievement/sherlock/1271052/750" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/crownjewel1.webp" title="CrownJewel-1" link="https://labs.hackthebox.com/achievement/sherlock/1271052/751" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/brutus.webp" title="Brutus" link="https://labs.hackthebox.com/achievement/sherlock/1271052/631" width=120 >}}</div>
 </div>
 
 #### マルウェア分析
