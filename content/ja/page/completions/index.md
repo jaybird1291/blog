@@ -11,7 +11,7 @@ menu:
 画像はクリック可能なリンクです。
 
 <div class="image-container">
-    <div class="image-item">{{< figure src="pictures/ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div><br>
+    <div class="image-item">{{< figure src="pictures/ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div>
     進行中 <br>
     修士課程 (BAC+5) - データ、ネットワーク、システムセキュリティの専門家<br>
     職業訓練（ワークスタディプログラム）のみ対応<br>

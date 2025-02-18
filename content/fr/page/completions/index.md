@@ -12,12 +12,14 @@ menu:
 Les images sont des liens cliquables.
 
 <div class="image-container">
-    <div class="image-item">{{< figure src="pictures/ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div><br>
+    <div class="image-item">{{< figure src="pictures/ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div>
     En cours <br>
     Mastère (BAC+5) - Expert de la sécurité des données, des réseaux et des systèmes<br>
     Uniquement en alternance<br>
     https://www.francecompetences.fr/recherche/rncp/38951/
 </div>
+
+--- 
 
 <div class="image-container">
     <div class="image-item">{{< figure src="pictures/efrei_logo.jpg" link="https://www.efrei.fr/" width=120 >}}</div><br>
@@ -25,6 +27,8 @@ Les images sont des liens cliquables.
     3ème année en alternance<br>
     Mention - Très bien
 </div>
+
+---
 
 <div class="image-container">
     <div class="image-item">{{< figure src="pictures/3IL-logo.jpg" link="https://www.3il-ingenieurs.fr/" width=120 >}}</div><br>
