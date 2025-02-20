@@ -51,34 +51,35 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
 #### DFIR / SOC 
 
 <div class="image-container">
-    <div class="image-item">{{< figure src="pictures/htb-opshieldwall7.webp" title="OpShieldWall-7" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/heartbreaker.webp" title="Heartbreaker" link="https://labs.hackthebox.com/achievement/sherlock/1271052/698" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/trent.webp" title="Trent" link="https://labs.hackthebox.com/achievement/sherlock/1271052/841" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-aptnightmare.webp" title="APTNightmare" link="https://labs.hackthebox.com/achievement/sherlock/1271052/612" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/OpShieldWall4.png" title="OpShieldWall-4" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-opshieldwall2.webp" title="OpShieldWall-2" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-opshieldwall1.webp" title="OpShieldWall-1" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-JingleBell.webp" title="Jingle Bell" link="https://labs.hackthebox.com/achievement/sherlock/1271052/613" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-recollection.webp" title="Recollection" link="https://labs.hackthebox.com/achievement/sherlock/1271052/586" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-noted.webp" title="Noted" link="https://labs.hackthebox.com/achievement/sherlock/1271052/585" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-tracer.webp" title="Tracer" link="https://labs.hackthebox.com/achievement/sherlock/1271052/558" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-logjammer.webp" title="Log Jammer" link="https://labs.hackthebox.com/achievement/sherlock/1271052/557" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/htb-rogueone.webp" title="Rogue One" link="https://labs.hackthebox.com/achievement/sherlock/1271052/569" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/crownjewel2.webp" title="CrownJewel-2" link="https://labs.hackthebox.com/achievement/sherlock/1271052/750" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/crownjewel1.webp" title="CrownJewel-1" link="https://labs.hackthebox.com/achievement/sherlock/1271052/751" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/brutus.webp" title="Brutus" link="https://labs.hackthebox.com/achievement/sherlock/1271052/631" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-opshieldwall7.webp" title="OpShieldWall-7" class="insane" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/heartbreaker.webp" title="Heartbreaker" class="medium" link="https://labs.hackthebox.com/achievement/sherlock/1271052/698" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/trent.webp" title="Trent" class="medium" link="https://labs.hackthebox.com/achievement/sherlock/1271052/841" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-aptnightmare.webp" title="APTNightmare" class="medium" link="https://labs.hackthebox.com/achievement/sherlock/1271052/612" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/OpShieldWall4.png" title="OpShieldWall-4" class="medium" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-opshieldwall2.webp" class="medium" title="OpShieldWall-2" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-opshieldwall1.webp" class="easy" title="OpShieldWall-1" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-JingleBell.webp" title="Jingle Bell" class="easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/613" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-recollection.webp" title="Recollection" class="easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/586" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-noted.webp" title="Noted" class="easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/585" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-tracer.webp" title="Tracer" class="easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/558" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-logjammer.webp" title="Log Jammer" class="easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/557" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/htb-rogueone.webp" title="Rogue One" class="easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/569" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/crownjewel2.webp" title="CrownJewel-2" class="very-easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/750" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/crownjewel1.webp" title="CrownJewel-1" class="very-easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/751" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/brutus.webp" title="Brutus" class="very-easy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/631" width=120 >}}</div>
 </div>
 
 #### Malware Analysis
 
 <div class="image-container">
-    <div class="image-item">{{< figure src="pictures/OpShieldWall6.png" title="OpShieldWall-6" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/OpShieldWall6.png" class="hard" title="OpShieldWall-6" width=120 >}}</div>
 </div>
 
 
 #### Cloud 
+
 <div class="image-container">
-    <div class="image">{{< figure src="pictures/htb-nubilum-2.webp" title="Nubilum-2" link="https://labs.hackthebox.com/achievement/sherlock/1271052/573" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/htb-nubilum-2.webp" class="easy" title="Nubilum-2" link="https://labs.hackthebox.com/achievement/sherlock/1271052/573" width=120 >}}</div>
 </div>
 
 ### Box
@@ -86,27 +87,27 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
 #### Linux
 
 <div class="image-container">
-    <div class="image-item">{{< figure src="pictures/OpShieldWall5.png" title="OpShieldWall-5" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/OpShieldWall3.png" title="OpShieldWall-3" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/Blurry.webp" title="Blurry" link="https://www.hackthebox.com/achievement/machine/1271052/605" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/Runner.webp" title="Runner" link="https://www.hackthebox.com/achievement/machine/1271052/598" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/iclean.png" title="IClean" link="https://www.hackthebox.com/achievement/machine/1271052/596" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/Perfection.png" title="Perfection" link="https://www.hackthebox.com/achievement/machine/1271052/590" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/BoardLight.png" title="BoardLight" link="https://www.hackthebox.com/achievement/machine/1271052/603" width=120 >}}</div>
-    <div class="image-item">{{< figure src="pictures/Headless.png" title="Headless" link="https://www.hackthebox.com/achievement/machine/1271052/594" width=120 >}}</div>
-    <div class="image">{{< figure src="pictures/wifinetic.webp" title="Wifinetic" link="https://www.hackthebox.com/achievement/machine/1271052/563" width=120 >}}</div>
-    <div class="image">{{< figure src="pictures/metatwo.webp" title="MetaTwo" link="https://www.hackthebox.com/achievement/machine/1271052/504" width=120 >}}</div>
-    <div class="image">{{< figure src="pictures/lame.webp" title="Lame" link="https://www.hackthebox.com/achievement/machine/1271052/1" width=120 >}}</div>
-    <div class="image">{{< figure src="pictures/nibbles.webp" title="Nibbles" link="https://www.hackthebox.com/achievement/machine/1271052/121" width=120 >}}</div>
-    <div class="image">{{< figure src="pictures/precious.webp" title="Precious" link="https://www.hackthebox.com/achievement/machine/1271052/513" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/OpShieldWall5.png" title="OpShieldWall-5" class="medium" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/OpShieldWall3.png" title="OpShieldWall-3" class="medium" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/Blurry.webp" title="Blurry" link="https://www.hackthebox.com/achievement/machine/1271052/605" class="medium" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/Runner.webp" title="Runner" link="https://www.hackthebox.com/achievement/machine/1271052/598" class="medium" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/iclean.png" title="IClean" link="https://www.hackthebox.com/achievement/machine/1271052/596" class="medium" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/Perfection.png" title="Perfection" link="https://www.hackthebox.com/achievement/machine/1271052/590" class="easy" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/BoardLight.png" title="BoardLight" link="https://www.hackthebox.com/achievement/machine/1271052/603" class="easy" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/Headless.png" title="Headless" link="https://www.hackthebox.com/achievement/machine/1271052/594" class="easy" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/wifinetic.webp" title="Wifinetic" link="https://www.hackthebox.com/achievement/machine/1271052/563" class="easy" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/metatwo.webp" title="MetaTwo" link="https://www.hackthebox.com/achievement/machine/1271052/504" class="easy" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/lame.webp" title="Lame" link="https://www.hackthebox.com/achievement/machine/1271052/1" class="easy" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/nibbles.webp" title="Nibbles" link="https://www.hackthebox.com/achievement/machine/1271052/121" class="easy" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/precious.webp" title="Precious" link="https://www.hackthebox.com/achievement/machine/1271052/513" class="easy" width=120 >}}</div>
 </div>
 
 #### Windows
 
 <div class="image-container">
-    <div class="image">{{< figure src="pictures/jerry.webp" title="Jerry" link="https://www.hackthebox.com/achievement/machine/1271052/144" width=120 >}}</div>
-    <div class="image">{{< figure src="pictures/netmon.webp" title="Netmon" link="https://www.hackthebox.com/achievement/machine/1271052/177" width=120 >}}</div>
-    <div class="image">{{< figure src="pictures/blue.webp" title="Blue" link="https://www.hackthebox.com/achievement/machine/1271052/51" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/jerry.webp" title="Jerry" link="https://www.hackthebox.com/achievement/machine/1271052/144" class="easy" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/netmon.webp" title="Netmon" link="https://www.hackthebox.com/achievement/machine/1271052/177" class="easy" width=120 >}}</div>
+    <div class="image">{{< figure src="pictures/blue.webp" title="Blue" link="https://www.hackthebox.com/achievement/machine/1271052/51" class="easy" width=120 >}}</div>
 </div>
 
 ## **HackTheBox Academy**
