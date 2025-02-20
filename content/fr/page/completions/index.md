@@ -156,6 +156,12 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
     <div class="image">{{< figure src="pictures/Yellow_RAT.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/127/" width=150 >}}</div>
 </div>
 
+### Cloud Forensics
+<div class="image-container">
+    <div class="image">{{< figure src="pictures/AzureHunt.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/139/" width=150 >}}</div>
+</div>
+
+
 
 ## **TryHackMe**
 92 rooms complétés
