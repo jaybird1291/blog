@@ -145,8 +145,10 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 </div>
  
 
+
 ### Endpoint Forensics
 <div class="image-container">
+    <div class="image">{{< figure src="pictures/LGDroid.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/69/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/The_Crime.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/138/" width=150 >}}</div>
 </div>
 
