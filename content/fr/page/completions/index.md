@@ -135,6 +135,7 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
     <div class="image">{{< figure src="pictures/HawkEye.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/91/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/OpenWire.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/153/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/XXE.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/183/" width=150 >}}</div>
+    <div class="image">{{< figure src="pictures/Openfire.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/211/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/webinvestigation.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/170/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/DanaBot.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/205/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/PsExec_Hunt.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/143/" width=150 >}}</div>
@@ -142,6 +143,7 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
     <div class="image">{{< figure src="pictures/WebStrike.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/149/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/Tomcat_Takeover.webp" title="Easy" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/" width=150 >}}</div>
 </div>
+ 
 
 ### Endpoint Forensics
 <div class="image-container">
