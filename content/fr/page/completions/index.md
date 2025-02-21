@@ -130,6 +130,7 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 <div class="image-container"> 
     <div class="image">{{< figure src="pictures/SolarDisruption_NG3AiEm.webp" title="Hard" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/202/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/Acoustic.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/46/" width=150 >}}</div>
+    <div class="image">{{< figure src="pictures/BlueSky.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/178/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/PacketMaze.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/68/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/HawkEye.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/91/" width=150 >}}</div>
     <div class="image">{{< figure src="pictures/OpenWire.webp" title="Medium" link="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/153/" width=150 >}}</div>
