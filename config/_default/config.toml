@@ -49,3 +49,6 @@ hasCJKLanguage = false
 
 [frontmatter]
 lastmod = ["lastmod", ":fileModTime", ":git"]
+
+[build]
+  timeout = "120s"

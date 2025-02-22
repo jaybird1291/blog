@@ -10,7 +10,6 @@ menu:
 
 画像はクリック可能なリンクです。
 
-
 <div class="image-container">
     <div class="image-item">{{< figure src="pictures/ecole2600_logo.jpg" link="https://www.2600.eu/" width=120 >}}</div>
     進行中 <br>
