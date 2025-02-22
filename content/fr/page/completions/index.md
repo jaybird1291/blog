@@ -77,6 +77,7 @@ Certaines images ne redirigent pas vers les pages de résultat d'HTB car se sont
 
 <div class="image-container">
     <div class="image-item">{{< figure src="pictures/OpShieldWall6.png" class="hard" title="OpShieldWall-6" width=120 >}}</div>
+    <div class="image-item">{{< figure src="pictures/Loggy.webp" class="easy" title="Loggy" link="https://labs.hackthebox.com/achievement/sherlock/1271052/765" width=120 >}}</div>
 </div>
 
 
