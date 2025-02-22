@@ -195,3 +195,4 @@ Some images do not link to the HTB result pages as they are boxes/Sherlocks only
     <div class="image">{{< figure src="pictures/lehack.png" title="LeHack" width=320 >}}</div>
     <div class="image">{{< figure src="pictures/meetuphtb.jpg" title="HTB Meetups France" width=320 >}}</div>
 </div>
+
