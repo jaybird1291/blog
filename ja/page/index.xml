@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Jaybird1291</title><link>https://jaybird1291.github.io/blog/ja/page/</link><description>Recent content in Pages on Jaybird1291</description><generator>Hugo -- gohugo.io</generator><language>ja</language><atom:link href="https://jaybird1291.github.io/blog/ja/page/index.xml" rel="self" type="application/rss+xml"/><item><title>CTFとその他のポートフォリオ</title><link>https://jaybird1291.github.io/blog/ja/portfolio/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jaybird1291.github.io/blog/ja/portfolio/</guid><description>&lt;p>画像はクリック可能なリンクです。&lt;/p>
+&lt;div class="image-container">
+&lt;div class="image-item">
+&lt;figure>
+&lt;a href="https://www.2600.eu/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/fr/portfolio/pictures/ecole2600_logo.jpg"
+srcset="
+/blog/fr/portfolio/pictures/ecole2600_logo_hu5831176957766692730.jpg 360w
+,
+/blog/fr/portfolio/pictures/ecole2600_logo_hu1419173660123005095.jpg 720w
+,
+/blog/fr/portfolio/pictures/ecole2600_logo_hu620772292993307561.jpg 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;/figure>
+&lt;/div>
+進行中 &lt;br>
+修士課程 (BAC+5) - データ、ネットワーク、システムセキュリティの専門家&lt;br>
+職業訓練（ワークスタディプログラム）のみ対応&lt;br>
+https://www.francecompetences.fr/recherche/rncp/38951/
+&lt;/div>
+&lt;div class="image-container">
+&lt;div class="image-item">
+&lt;figure>
+&lt;a href="https://eng.efrei.fr/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/fr/portfolio/pictures/efrei_logo.jpg"
+srcset="
+/blog/fr/portfolio/pictures/efrei_logo_hu14152784480798285627.jpg 360w
+,
+/blog/fr/portfolio/pictures/efrei_logo_hu8744576424294928541.jpg 720w
+,
+/blog/fr/portfolio/pictures/efrei_logo_hu14859325898002023809.jpg 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;/figure>
+&lt;/div>&lt;br>
+学士課程 (BAC+3) - サイバーセキュリティ &amp; 倫理的ハッキング&lt;br>
+3年目は職業訓練プログラム&lt;br>
+成績優秀賞（フランスの「Très Bien」に相当する評価）
+&lt;/div>
+&lt;div class="image-container">
+&lt;div class="image-item">
+&lt;figure>
+&lt;a href="https://www.3il-ingenieurs.fr/en/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/fr/portfolio/pictures/3IL-logo.jpg"
+srcset="
+/blog/fr/portfolio/pictures/3IL-logo_hu17292814823853862036.jpg 360w
+,
+/blog/fr/portfolio/pictures/3IL-logo_hu17974014704195172838.jpg 720w
+,
+/blog/fr/portfolio/pictures/3IL-logo_hu16832158730303709578.jpg 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;/figure>
+&lt;/div>&lt;br>
+学士課程 (BAC+3) - 情報システム設計者&lt;br>
+成績優秀賞（フランスの「Très Bien」に相当する評価）
+&lt;/div>
+&lt;hr>
+&lt;p>これまでに完了したすべてのチャレンジ、ラボ、ボックスなど、および参加した会議やトレーニングのリストです:&lt;/p>
+&lt;h2 id="hackthebox">&lt;strong>HackTheBox&lt;/strong>
+&lt;/h2>&lt;ul>
+&lt;li>Iron = Insane&lt;/li>
+&lt;li>Red = Hard&lt;/li>
+&lt;li>Orange = Medium&lt;/li>
+&lt;li>Green = Easy&lt;/li>
+&lt;li>Purple = Very Easy&lt;/li>
+&lt;/ul>
+&lt;p>一部の画像は、HTBの結果ページにリンクしていません。これらはHackTheBox Enterpriseプラットフォームでのみ利用可能なボックスやシャーロックであり、共有リンクが許可されていません。&lt;/p>
+&lt;h3 id="シャーロック">シャーロック
+&lt;/h3>&lt;h4 id="dfir--soc">DFIR / SOC
+&lt;/h4>&lt;div class="image-container">
+&lt;div class="image-item">
+&lt;figure class="insane opshieldwall-7">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-opshieldwall7.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-opshieldwall7_hu579724800650327479.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-opshieldwall7_hu2454315065833572799.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-opshieldwall7_hu8889304676559092459.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;figcaption>
+OpShieldWall-7
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium heartbreaker">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/698">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/heartbreaker.webp"
+srcset="
+/blog/ja/portfolio/pictures/heartbreaker_hu14758111132228100181.webp 360w
+,
+/blog/ja/portfolio/pictures/heartbreaker_hu10945163094930644183.webp 720w
+,
+/blog/ja/portfolio/pictures/heartbreaker_hu11601764544929137922.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Heartbreaker
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium trent">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/841">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/trent.webp"
+srcset="
+/blog/ja/portfolio/pictures/trent_hu32213963108039143.webp 360w
+,
+/blog/ja/portfolio/pictures/trent_hu3320823773972143262.webp 720w
+,
+/blog/ja/portfolio/pictures/trent_hu3261190292123973634.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Trent
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium aptnightmare">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/612">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-aptnightmare.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-aptnightmare_hu14506320040222139442.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-aptnightmare_hu8130504630447302240.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-aptnightmare_hu17877421353539112076.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+APTNightmare
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium opshieldwall-4">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/OpShieldWall4.png"
+srcset="
+/blog/ja/portfolio/pictures/OpShieldWall4_hu5290050942369492626.png 360w
+,
+/blog/ja/portfolio/pictures/OpShieldWall4_hu9133739515828578575.png 720w
+,
+/blog/ja/portfolio/pictures/OpShieldWall4_hu7696170895908073641.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;figcaption>
+OpShieldWall-4
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium opshieldwall-2">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-opshieldwall2.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-opshieldwall2_hu17243326217080313549.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-opshieldwall2_hu11472612143667253910.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-opshieldwall2_hu7012134481310493621.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;figcaption>
+OpShieldWall-2
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy opshieldwall-1">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-opshieldwall1.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-opshieldwall1_hu4429877169849273751.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-opshieldwall1_hu1815357149590305642.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-opshieldwall1_hu7199748969793661734.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;figcaption>
+OpShieldWall-1
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy jingle bell">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/613">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-JingleBell.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-JingleBell_hu15520807250684938836.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-JingleBell_hu1113491640751933650.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-JingleBell_hu2223187648654883136.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Jingle Bell
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy recollection">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/586">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-recollection.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-recollection_hu9365108520062341401.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-recollection_hu3569605058189495193.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-recollection_hu4748220565018237411.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Recollection
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy noted">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/585">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-noted.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-noted_hu16006733092085636200.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-noted_hu4244040473907432197.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-noted_hu3589332335171942085.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Noted
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy tracer">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/558">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-tracer.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-tracer_hu13172058219398332484.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-tracer_hu476542104265597376.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-tracer_hu11987707345085084332.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Tracer
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy log jammer">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/557">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-logjammer.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-logjammer_hu7911088276543909127.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-logjammer_hu690602427098028775.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-logjammer_hu14522627674507713650.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Log Jammer
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy rogue one">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/569">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-rogueone.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-rogueone_hu7664145778323154221.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-rogueone_hu18301601039103678755.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-rogueone_hu12251393642675604528.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Rogue One
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="very-easy crownjewel-2">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/750">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/crownjewel2.webp"
+srcset="
+/blog/ja/portfolio/pictures/crownjewel2_hu12605453913171403049.webp 360w
+,
+/blog/ja/portfolio/pictures/crownjewel2_hu15857956962697769199.webp 720w
+,
+/blog/ja/portfolio/pictures/crownjewel2_hu15289991479024523955.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+CrownJewel-2
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="very-easy crownjewel-1">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/751">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/crownjewel1.webp"
+srcset="
+/blog/ja/portfolio/pictures/crownjewel1_hu15505039189046657460.webp 360w
+,
+/blog/ja/portfolio/pictures/crownjewel1_hu1178722538735959350.webp 720w
+,
+/blog/ja/portfolio/pictures/crownjewel1_hu12866180174044615683.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+CrownJewel-1
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="very-easy brutus">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/631">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/brutus.webp"
+srcset="
+/blog/ja/portfolio/pictures/brutus_hu7902174829473498781.webp 360w
+,
+/blog/ja/portfolio/pictures/brutus_hu10409126458590163054.webp 720w
+,
+/blog/ja/portfolio/pictures/brutus_hu4379550916167580672.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Brutus
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h4 id="マルウェア分析">マルウェア分析
+&lt;/h4>&lt;div class="image-container">
+&lt;div class="image-item">
+&lt;figure class="hard opshieldwall-6">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/OpShieldWall6.png"
+srcset="
+/blog/ja/portfolio/pictures/OpShieldWall6_hu5621374275916172783.png 360w
+,
+/blog/ja/portfolio/pictures/OpShieldWall6_hu3841799911030862651.png 720w
+,
+/blog/ja/portfolio/pictures/OpShieldWall6_hu9587534117345449726.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;figcaption>
+OpShieldWall-6
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy loggy">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/765">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Loggy.webp"
+srcset="
+/blog/ja/portfolio/pictures/Loggy_hu4129770096035146970.webp 360w
+,
+/blog/ja/portfolio/pictures/Loggy_hu10116674700703211750.webp 720w
+,
+/blog/ja/portfolio/pictures/Loggy_hu3352431356433687417.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Loggy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h4 id="クラウド">クラウド
+&lt;/h4>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="easy nubilum-2">
+&lt;a href="https://labs.hackthebox.com/achievement/sherlock/1271052/573">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/htb-nubilum-2.webp"
+srcset="
+/blog/ja/portfolio/pictures/htb-nubilum-2_hu14358102005267188694.webp 360w
+,
+/blog/ja/portfolio/pictures/htb-nubilum-2_hu17497253826863540861.webp 720w
+,
+/blog/ja/portfolio/pictures/htb-nubilum-2_hu12719084516349249626.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Nubilum-2
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="ボックス">ボックス
+&lt;/h3>&lt;h4 id="linux">Linux
+&lt;/h4>&lt;div class="image-container">
+&lt;div class="image-item">
+&lt;figure class="medium opshieldwall-5">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/OpShieldWall5.png"
+srcset="
+/blog/ja/portfolio/pictures/OpShieldWall5_hu4024025657688833182.png 360w
+,
+/blog/ja/portfolio/pictures/OpShieldWall5_hu8779950622552055684.png 720w
+,
+/blog/ja/portfolio/pictures/OpShieldWall5_hu16521836625394008913.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;figcaption>
+OpShieldWall-5
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium opshieldwall-3">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/OpShieldWall3.png"
+srcset="
+/blog/ja/portfolio/pictures/OpShieldWall3_hu15423821179330681262.png 360w
+,
+/blog/ja/portfolio/pictures/OpShieldWall3_hu16180536951750078752.png 720w
+,
+/blog/ja/portfolio/pictures/OpShieldWall3_hu13015791639527373136.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;figcaption>
+OpShieldWall-3
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium blurry">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/605">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Blurry.webp"
+srcset="
+/blog/ja/portfolio/pictures/Blurry_hu15351397706230984902.webp 360w
+,
+/blog/ja/portfolio/pictures/Blurry_hu146879816270839374.webp 720w
+,
+/blog/ja/portfolio/pictures/Blurry_hu14299096155221514037.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Blurry
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium runner">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/598">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Runner.webp"
+srcset="
+/blog/ja/portfolio/pictures/Runner_hu6455371249579715448.webp 360w
+,
+/blog/ja/portfolio/pictures/Runner_hu8065185850918337061.webp 720w
+,
+/blog/ja/portfolio/pictures/Runner_hu15946208956993193267.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Runner
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="medium iclean">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/596">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/iclean.png"
+srcset="
+/blog/ja/portfolio/pictures/iclean_hu11159530487368458987.png 360w
+,
+/blog/ja/portfolio/pictures/iclean_hu2030006978562193355.png 720w
+,
+/blog/ja/portfolio/pictures/iclean_hu13183835513825375033.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+IClean
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy perfection">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/590">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Perfection.png"
+srcset="
+/blog/ja/portfolio/pictures/Perfection_hu8207586915382724039.png 360w
+,
+/blog/ja/portfolio/pictures/Perfection_hu5684711410623451424.png 720w
+,
+/blog/ja/portfolio/pictures/Perfection_hu11410880852843531185.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Perfection
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy boardlight">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/603">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/BoardLight.png"
+srcset="
+/blog/ja/portfolio/pictures/BoardLight_hu9022996687300344379.png 360w
+,
+/blog/ja/portfolio/pictures/BoardLight_hu7803853930145595769.png 720w
+,
+/blog/ja/portfolio/pictures/BoardLight_hu15945925623941766793.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+BoardLight
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image-item">
+&lt;figure class="easy headless">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/594">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Headless.png"
+srcset="
+/blog/ja/portfolio/pictures/Headless_hu10041931000319220926.png 360w
+,
+/blog/ja/portfolio/pictures/Headless_hu17819858676304818438.png 720w
+,
+/blog/ja/portfolio/pictures/Headless_hu8682198354528407257.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Headless
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy wifinetic">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/563">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/wifinetic.webp"
+srcset="
+/blog/ja/portfolio/pictures/wifinetic_hu15526568003115025989.webp 360w
+,
+/blog/ja/portfolio/pictures/wifinetic_hu13927562312298190171.webp 720w
+,
+/blog/ja/portfolio/pictures/wifinetic_hu10476196525861621815.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Wifinetic
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy metatwo">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/504">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/metatwo.webp"
+srcset="
+/blog/ja/portfolio/pictures/metatwo_hu9714854198424503102.webp 360w
+,
+/blog/ja/portfolio/pictures/metatwo_hu4325594907114618375.webp 720w
+,
+/blog/ja/portfolio/pictures/metatwo_hu9488859881305071060.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+MetaTwo
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy lame">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/1">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/lame.webp"
+srcset="
+/blog/ja/portfolio/pictures/lame_hu7801889187164139196.webp 360w
+,
+/blog/ja/portfolio/pictures/lame_hu6722013954998448917.webp 720w
+,
+/blog/ja/portfolio/pictures/lame_hu6250407694448391483.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Lame
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy nibbles">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/121">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/nibbles.webp"
+srcset="
+/blog/ja/portfolio/pictures/nibbles_hu13711978232794863721.webp 360w
+,
+/blog/ja/portfolio/pictures/nibbles_hu2613596401305171967.webp 720w
+,
+/blog/ja/portfolio/pictures/nibbles_hu15107159489188437247.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Nibbles
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy precious">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/513">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/precious.webp"
+srcset="
+/blog/ja/portfolio/pictures/precious_hu9815729354025273953.webp 360w
+,
+/blog/ja/portfolio/pictures/precious_hu9661456167198837651.webp 720w
+,
+/blog/ja/portfolio/pictures/precious_hu12325692223714062164.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Precious
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h4 id="windows">Windows
+&lt;/h4>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="easy jerry">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/144">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/jerry.webp"
+srcset="
+/blog/ja/portfolio/pictures/jerry_hu10660849773579491429.webp 360w
+,
+/blog/ja/portfolio/pictures/jerry_hu5807799828738485100.webp 720w
+,
+/blog/ja/portfolio/pictures/jerry_hu17319030519082570605.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Jerry
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy netmon">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/177">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/netmon.webp"
+srcset="
+/blog/ja/portfolio/pictures/netmon_hu8258641792238506468.webp 360w
+,
+/blog/ja/portfolio/pictures/netmon_hu5226152736025356256.webp 720w
+,
+/blog/ja/portfolio/pictures/netmon_hu5446841209155805534.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Netmon
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy blue">
+&lt;a href="https://www.hackthebox.com/achievement/machine/1271052/51">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/blue.webp"
+srcset="
+/blog/ja/portfolio/pictures/blue_hu2280389026581750800.webp 360w
+,
+/blog/ja/portfolio/pictures/blue_hu11716184482303536226.webp 720w
+,
+/blog/ja/portfolio/pictures/blue_hu9760226231665272777.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="120"
+/>
+&lt;/a>
+&lt;figcaption>
+Blue
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="hacktheboxアカデミー">&lt;strong>HackTheBoxアカデミー&lt;/strong>
+&lt;/h2>&lt;p>&lt;a class="link" href="htb-academy-transcript.pdf" >Transcript.pdf&lt;/a>&lt;/p>
+&lt;br>
+&lt;h2 id="rootme">&lt;strong>RootMe&lt;/strong>
+&lt;/h2>&lt;img src= "https://root-me-diff.vercel.app/rm-gh?nickname=jaybird1291&amp;style=dark&amp;gstats=show"/>
+&lt;h2 id="cyberdefenders">&lt;strong>CyberDefenders&lt;/strong>
+&lt;/h2>&lt;script src="https://cyberdefenders.org/p/Jaybird1291/badge">&lt;/script>
+&lt;h3 id="ネットワークフォレンジック">ネットワークフォレンジック
+&lt;/h3>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="hard">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/202/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/SolarDisruption_NG3AiEm.webp"
+srcset="
+/blog/ja/portfolio/pictures/SolarDisruption_NG3AiEm_hu3693501548264738344.webp 360w
+,
+/blog/ja/portfolio/pictures/SolarDisruption_NG3AiEm_hu10750323884348936139.webp 720w
+,
+/blog/ja/portfolio/pictures/SolarDisruption_NG3AiEm_hu625676297912170576.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Hard
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/46/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Acoustic.webp"
+srcset="
+/blog/ja/portfolio/pictures/Acoustic_hu15354697604698474116.webp 360w
+,
+/blog/ja/portfolio/pictures/Acoustic_hu8880302018282201001.webp 720w
+,
+/blog/ja/portfolio/pictures/Acoustic_hu415220149048500509.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/178/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/BlueSky.webp"
+srcset="
+/blog/ja/portfolio/pictures/BlueSky_hu15150059535095437627.webp 360w
+,
+/blog/ja/portfolio/pictures/BlueSky_hu4311869286382922863.webp 720w
+,
+/blog/ja/portfolio/pictures/BlueSky_hu1423299226196467051.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/68/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/PacketMaze.webp"
+srcset="
+/blog/ja/portfolio/pictures/PacketMaze_hu12914593227251596679.webp 360w
+,
+/blog/ja/portfolio/pictures/PacketMaze_hu7542653086843307191.webp 720w
+,
+/blog/ja/portfolio/pictures/PacketMaze_hu6588275853097952125.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/91/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/HawkEye.webp"
+srcset="
+/blog/ja/portfolio/pictures/HawkEye_hu6283505015548296721.webp 360w
+,
+/blog/ja/portfolio/pictures/HawkEye_hu14228456030665469623.webp 720w
+,
+/blog/ja/portfolio/pictures/HawkEye_hu15746856790174388946.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/153/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/OpenWire.webp"
+srcset="
+/blog/ja/portfolio/pictures/OpenWire_hu8282177788446358399.webp 360w
+,
+/blog/ja/portfolio/pictures/OpenWire_hu13429565196393086489.webp 720w
+,
+/blog/ja/portfolio/pictures/OpenWire_hu16033793978522266370.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/183/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/XXE.webp"
+srcset="
+/blog/ja/portfolio/pictures/XXE_hu1614220023427302840.webp 360w
+,
+/blog/ja/portfolio/pictures/XXE_hu13894698107662179870.webp 720w
+,
+/blog/ja/portfolio/pictures/XXE_hu15185860112428346990.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/211/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Openfire.webp"
+srcset="
+/blog/ja/portfolio/pictures/Openfire_hu13417188590658650977.webp 360w
+,
+/blog/ja/portfolio/pictures/Openfire_hu12059827668722356032.webp 720w
+,
+/blog/ja/portfolio/pictures/Openfire_hu9354228352207290478.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/170/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/webinvestigation.webp"
+srcset="
+/blog/ja/portfolio/pictures/webinvestigation_hu15704396993755092482.webp 360w
+,
+/blog/ja/portfolio/pictures/webinvestigation_hu308155583775391976.webp 720w
+,
+/blog/ja/portfolio/pictures/webinvestigation_hu11932654100887685377.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/205/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/DanaBot.webp"
+srcset="
+/blog/ja/portfolio/pictures/DanaBot_hu11132000877267752730.webp 360w
+,
+/blog/ja/portfolio/pictures/DanaBot_hu12226479087194935366.webp 720w
+,
+/blog/ja/portfolio/pictures/DanaBot_hu5495974701066543930.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/143/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/PsExec_Hunt.webp"
+srcset="
+/blog/ja/portfolio/pictures/PsExec_Hunt_hu10619219234567398709.webp 360w
+,
+/blog/ja/portfolio/pictures/PsExec_Hunt_hu522352600796677305.webp 720w
+,
+/blog/ja/portfolio/pictures/PsExec_Hunt_hu10786640909411843998.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/146/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/PoisonedCredentials.webp"
+srcset="
+/blog/ja/portfolio/pictures/PoisonedCredentials_hu11325156128933334424.webp 360w
+,
+/blog/ja/portfolio/pictures/PoisonedCredentials_hu6686387789662348341.webp 720w
+,
+/blog/ja/portfolio/pictures/PoisonedCredentials_hu3270805595637656253.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/149/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/WebStrike.webp"
+srcset="
+/blog/ja/portfolio/pictures/WebStrike_hu6482539043750461512.webp 360w
+,
+/blog/ja/portfolio/pictures/WebStrike_hu6868677040100264364.webp 720w
+,
+/blog/ja/portfolio/pictures/WebStrike_hu18034741982584633714.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/135/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Tomcat_Takeover.webp"
+srcset="
+/blog/ja/portfolio/pictures/Tomcat_Takeover_hu17891501569975409699.webp 360w
+,
+/blog/ja/portfolio/pictures/Tomcat_Takeover_hu8709004526798782167.webp 720w
+,
+/blog/ja/portfolio/pictures/Tomcat_Takeover_hu14999244439214972445.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="エンドポイントフォレンジックス">エンドポイント・フォレンジックス
+&lt;/h3>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/69/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/LGDroid.webp"
+srcset="
+/blog/ja/portfolio/pictures/LGDroid_hu17245761123824964067.webp 360w
+,
+/blog/ja/portfolio/pictures/LGDroid_hu8577341930223155145.webp 720w
+,
+/blog/ja/portfolio/pictures/LGDroid_hu8454743950730368946.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/138/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/The_Crime.webp"
+srcset="
+/blog/ja/portfolio/pictures/The_Crime_hu7636149121010012100.webp 360w
+,
+/blog/ja/portfolio/pictures/The_Crime_hu6913781340005500050.webp 720w
+,
+/blog/ja/portfolio/pictures/The_Crime_hu2159312094118939720.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="脅威インテリジェンス">脅威インテリジェンス
+&lt;/h3>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/218/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/BRabbit.webp"
+srcset="
+/blog/ja/portfolio/pictures/BRabbit_hu13084315932401243069.webp 360w
+,
+/blog/ja/portfolio/pictures/BRabbit_hu16833253775381151795.webp 720w
+,
+/blog/ja/portfolio/pictures/BRabbit_hu14750417294983243988.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="medium">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/38/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Intel101.webp"
+srcset="
+/blog/ja/portfolio/pictures/Intel101_hu5319786091312189579.webp 360w
+,
+/blog/ja/portfolio/pictures/Intel101_hu13798500851150473944.webp 720w
+,
+/blog/ja/portfolio/pictures/Intel101_hu3434434002822037871.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Medium
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/174/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/IcedID_4yYxbLQ.webp"
+srcset="
+/blog/ja/portfolio/pictures/IcedID_4yYxbLQ_hu6773109586408383048.webp 360w
+,
+/blog/ja/portfolio/pictures/IcedID_4yYxbLQ_hu12045411912867687811.webp 720w
+,
+/blog/ja/portfolio/pictures/IcedID_4yYxbLQ_hu1704482722876645038.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/184/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Red_Stealer.webp"
+srcset="
+/blog/ja/portfolio/pictures/Red_Stealer_hu6192873950995911381.webp 360w
+,
+/blog/ja/portfolio/pictures/Red_Stealer_hu946637952658133585.webp 720w
+,
+/blog/ja/portfolio/pictures/Red_Stealer_hu6900380431233235729.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/222/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Tusk_Infostealer.webp"
+srcset="
+/blog/ja/portfolio/pictures/Tusk_Infostealer_hu13370040580619527813.webp 360w
+,
+/blog/ja/portfolio/pictures/Tusk_Infostealer_hu1353004993689925493.webp 720w
+,
+/blog/ja/portfolio/pictures/Tusk_Infostealer_hu12572301216496580801.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/127/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/Yellow_RAT.webp"
+srcset="
+/blog/ja/portfolio/pictures/Yellow_RAT_hu10897766775123800562.webp 360w
+,
+/blog/ja/portfolio/pictures/Yellow_RAT_hu288931939540620806.webp 720w
+,
+/blog/ja/portfolio/pictures/Yellow_RAT_hu18225726939914198304.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="クラウドフォレンジックス">クラウド・フォレンジックス
+&lt;/h3>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="easy">
+&lt;a href="https://cyberdefenders.org/blueteam-ctf-challenges/progress/Jaybird1291/139/">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/AzureHunt.webp"
+srcset="
+/blog/ja/portfolio/pictures/AzureHunt_hu16931530930217146518.webp 360w
+,
+/blog/ja/portfolio/pictures/AzureHunt_hu2966090558086965623.webp 720w
+,
+/blog/ja/portfolio/pictures/AzureHunt_hu14961394707697327919.webp 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="150"
+/>
+&lt;/a>
+&lt;figcaption>
+Easy
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h2 id="tryhackme">&lt;strong>TryHackMe&lt;/strong>
+&lt;/h2>&lt;p>92部屋を完了&lt;/p>
+&lt;h2 id="コース">&lt;strong>コース&lt;/strong>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;strong class="alternate">OALABS&lt;/strong> : Reverse Engineering 101 (RE101) （リバースエンジニアリング101）&lt;/li>
+&lt;li>&lt;strong class="alternate">Evasive Malware&lt;/strong> : A Field Guide to Detecting, Analyzing, and Defeating Advanced Threats (Kyle Cucci - no starch press)&lt;/li>
+&lt;li>&lt;strong class="alternate">Kaspersky&lt;/strong> : Advanced Malware Analysis Techniques （高度なマルウェア分析技術）&lt;/li>
+&lt;li>&lt;strong class="alternate">Kaspersky&lt;/strong> : Hunting APTs like a Ninja with YARA （YARAを使った忍者のようなAPT追跡）&lt;/li>
+&lt;li>&lt;strong class="alternate">13Cubed&lt;/strong> : Investigating Windows Endpoint&lt;/li>
+&lt;li>&lt;strong class="alternate">13Cubed&lt;/strong> : Investigating Windows Memory&lt;/li>
+&lt;li>&lt;strong class="alternate">Roman Stuehler&lt;/strong> : Android App Hacking - Black Belt Edition （Androidアプリハッキング - ブラックベルト版）&lt;/li>
+&lt;li>&lt;strong class="alternate">Pentherz&lt;/strong> : Intro to SDR Hacking （SDRハッキング入門）&lt;/li>
+&lt;li>&lt;strong class="alternate">Christopher Negus&lt;/strong> : Linux Bible （リナックスバイブル）&lt;/li>
+&lt;li>&lt;strong class="alternate">OSINT (Open Source Intelligence Techniques)&lt;/strong> : IntelTechniques （オープンソースインテリジェンステクニック）&lt;/li>
+&lt;li>&lt;strong class="alternate">Opdisk&lt;/strong> : The Cyber Plumber&amp;rsquo;s Handbook （サイバープランバーのハンドブック）&lt;/li>
+&lt;/ul>
+&lt;h2 id="会議とミートアップ">&lt;strong>会議とミートアップ&lt;/strong>
+&lt;/h2>&lt;h3 id="2024">2024
+&lt;/h3>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="defcon paris">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/defconparis.png"
+srcset="
+/blog/ja/portfolio/pictures/defconparis_hu10609380435012629576.png 360w
+,
+/blog/ja/portfolio/pictures/defconparis_hu14070235002871940370.png 720w
+,
+/blog/ja/portfolio/pictures/defconparis_hu10359481016057934603.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="165"
+/>
+&lt;figcaption>
+DEFCON Paris
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="meetups htb france">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/meetuphtb.jpg"
+srcset="
+/blog/ja/portfolio/pictures/meetuphtb_hu2148130649180681101.jpg 360w
+,
+/blog/ja/portfolio/pictures/meetuphtb_hu16050568875697026432.jpg 720w
+,
+/blog/ja/portfolio/pictures/meetuphtb_hu10562525598476022067.jpg 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="320"
+/>
+&lt;figcaption>
+Meetups HTB France
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div>
+&lt;h3 id="2023">2023
+&lt;/h3>&lt;div class="image-container">
+&lt;div class="image">
+&lt;figure class="hexacon">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/hexacon.png"
+srcset="
+/blog/ja/portfolio/pictures/hexacon_hu2260745631328100675.png 360w
+,
+/blog/ja/portfolio/pictures/hexacon_hu4738974758408711249.png 720w
+,
+/blog/ja/portfolio/pictures/hexacon_hu3338963062700541662.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="300"
+/>
+&lt;figcaption>
+Hexacon
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="defcon paris">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/defconparis.png"
+srcset="
+/blog/ja/portfolio/pictures/defconparis_hu10609380435012629576.png 360w
+,
+/blog/ja/portfolio/pictures/defconparis_hu14070235002871940370.png 720w
+,
+/blog/ja/portfolio/pictures/defconparis_hu10359481016057934603.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="165"
+/>
+&lt;figcaption>
+DEFCON Paris
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="lehack">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/lehack.png"
+srcset="
+/blog/ja/portfolio/pictures/lehack_hu10458075379095863693.png 360w
+,
+/blog/ja/portfolio/pictures/lehack_hu6696575244145232669.png 720w
+,
+/blog/ja/portfolio/pictures/lehack_hu9532804271304724566.png 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="320"
+/>
+&lt;figcaption>
+LeHack
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div class="image">
+&lt;figure class="meetups htb france">
+&lt;img src="https://jaybird1291.github.io/blog/blog/ja/portfolio/pictures/meetuphtb.jpg"
+srcset="
+/blog/ja/portfolio/pictures/meetuphtb_hu2148130649180681101.jpg 360w
+,
+/blog/ja/portfolio/pictures/meetuphtb_hu16050568875697026432.jpg 720w
+,
+/blog/ja/portfolio/pictures/meetuphtb_hu10562525598476022067.jpg 1920w
+"
+sizes="
+(max-width: 37.5em) 360px
+,
+(min-width: 75em) 720px
+,
+(min-width: 112.5em) 1200px
+"
+width="320"
+/>
+&lt;figcaption>
+Meetups HTB France
+&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;/div></description></item><item><title>プロジェクト</title><link>https://jaybird1291.github.io/blog/ja/projets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jaybird1291.github.io/blog/ja/projets/</guid><description>&lt;p>これまでに実施したプロジェクトのリストです。&lt;/p>
+&lt;h2 id="セルフホスト型インフラストラクチャ">&lt;strong>セルフホスト型インフラストラクチャ&lt;/strong>
+&lt;/h2>&lt;p>&lt;strong class="alternate">2023年6月 - 現在&lt;/strong>&lt;br>&lt;/p>
+&lt;ul>
+&lt;li>Proxmoxを使用したプロフェッショナルサーバー (HP ProLiant DL380 Gen9 2U)&lt;/li>
+&lt;li>OPNsenseで稼働するファイアウォール&lt;/li>
+&lt;li>セルフホストされたサービスとツール: VPN、Security Onion、Wazuh、Cuckoo Sandbox、GitLab、CTFマシン、様々なラボ (レッドチーム / ブルーチーム)&lt;/li>
+&lt;li>セキュリティ、プライバシー、OPSECを考慮した特別なマルウェア解析ラボとOSINTラボ&lt;/li>
+&lt;li>アーキテクチャ設計、ネットワーク分割、IPS/IDS統合、負荷分散、SRE、VPN&lt;/li>
+&lt;/ul>
+&lt;h2 id="ctfチャレンジクリエーター">&lt;strong>CTFチャレンジクリエーター&lt;/strong>
+&lt;/h2>&lt;p>&lt;strong class="alternate">2024年6月 - 2024年6月&lt;/strong>&lt;br>
+「PwnMe CTF 2024」のために2つの無線通信チャレンジ (簡単なものと中程度の難易度) を作成しました。&lt;/p>
+&lt;p>&lt;a class="link" href="https://ctftime.org/ctf/807/" target="_blank" rel="noopener"
+>https://ctftime.org/ctf/807/&lt;/a>&lt;/p>
+&lt;p>&lt;a class="link" href="https://www.phreaks2600.fr/" target="_blank" rel="noopener"
+>https://www.phreaks2600.fr/&lt;/a>&lt;/p>
+&lt;h2 id="サイドクエスト---ネットワークフォレンジックマルウェア解析ツールキット">&lt;strong>サイドクエスト - ネットワークフォレンジック＆マルウェア解析ツールキット&lt;/strong>
+&lt;/h2>&lt;p>&lt;strong class="alternate">2024年2月 - 2024年6月&lt;/strong>&lt;br>
+サイドクエストは、ネットワークフォレンジック解析とマルウェア解析に強力なツールキットを提供することを目的とした学生の共同プロジェクトです。このリポジトリには、調査の異なる側面に焦点を当てた2つのサブプロジェクトが含まれています：&lt;/p>
+&lt;ul>
+&lt;li>ネットワークフォレンジック解析: PCAPファイル内のネットワークトラフィックを解析するためのツール。&lt;/li>
+&lt;li>マルウェア解析: バイナリファイルを解析し、隠された情報を見つけ、悪意のある特徴を検出するためのツール。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a class="link" href="https://github.com/jaybird1291/toolkit-network-forensic-malware-analysis-sidequest" target="_blank" rel="noopener"
+>https://github.com/jaybird1291/toolkit-network-forensic-malware-analysis-sidequest&lt;/a>&lt;/p></description></item><item><title>調べる</title><link>https://jaybird1291.github.io/blog/ja/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jaybird1291.github.io/blog/ja/search/</guid><description/></item><item><title>文書</title><link>https://jaybird1291.github.io/blog/ja/archives/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jaybird1291.github.io/blog/ja/archives/</guid><description/></item></channel></rss>
